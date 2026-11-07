@@ -4,7 +4,7 @@ Aplicativo desenvolvido para gerenciamento e cálculo de reservas de hotel.
 
 ---
 
-## 📱 Telas do Aplicativo
+### 📱 Telas do Aplicativo
 
 ### 1. Cálculo da Diária
 Permite ao usuário configurar os detalhes da hospedagem:
